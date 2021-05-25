@@ -1,0 +1,445 @@
+.elmausoleu{
+	top:10px;
+	left:0px;
+	width:100%;
+	height:200px;	
+	position:absolute;
+	background-color:;}
+
+.um{
+	top:200px;
+	left:110px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:7;}
+	
+	.dois{
+	top:200px;
+	left:250px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:6;}
+	
+	.tres{
+	top:200px;
+	left:390px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:5;}
+	
+	.quatro{
+	top:200px;
+	left:530px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:4;}
+
+.cinco{
+	top:200px;
+	left:670px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:3;}
+	
+	.seis{
+	top:200px;
+	left:810px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:2;}
+	
+	.sete{
+	top:200px;
+	left:950px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:1;}
+
+.oito{
+	top:650px;
+	left:110px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:7;}
+	
+	.nove{
+	top:650px;
+	left:250px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:6;}
+	
+	.dez{
+	top:650px;
+	left:390px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:5;}
+	
+	.onze{
+	top:650px;
+	left:530px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:4;}
+
+.doze{
+	top:650px;
+	left:670px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:3;}
+	
+	.treze{
+	top:650px;
+	left:810px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:2;}
+	
+	.fourteen{
+	top:650px;
+	left:950px;
+	width:300px;
+	height:300px;	
+	position:absolute;
+	z-index:1;}
+
+.hide {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.um:hover + .hide{display: block;
+color: red;}
+
+.hide2 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.dois:hover + .hide2{display: block;
+color: red;}
+
+.hide3 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.tres:hover + .hide3{display: block;
+color: red;}
+
+.hide4 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.quatro:hover + .hide4{display: block;
+color: red;}
+
+.hide5 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.cinco:hover + .hide5{display: block;
+color: red;}
+
+.hide6 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.seis:hover + .hide6{display: block;
+color: red;}
+
+.hide7 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.sete:hover + .hide7{display: block;
+color: red;}
+
+.hide8 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.oito:hover + .hide8{display: block;
+color: red;}
+
+.hide9 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.nove:hover + .hide9{display: block;
+color: red;}
+
+.hide10 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.dez:hover + .hide10{display: block;
+color: red;}
+
+.hide11{
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.onze:hover + .hide11{display: block;
+color: red;}
+
+.hide12{
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.doze:hover + .hide12{display: block;
+color: red;}
+
+.hide13 {
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.treze:hover + .hide13{display: block;
+color: red;}
+
+.hide14{
+	position:absolute;
+	background-color:#c52c41;
+	top:550px;
+	left:220px;
+	width:900px;
+  display: none;
+}
+.fourteen:hover + .hide14{display: block;
+color: red;}
+
+
+.um img:hover{
+	
+		 transform: rotate(360deg);
+		 transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+}
+ .dois img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+ 
+}
+.tres img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+ 
+}
+
+.quatro img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+ 
+}
+
+.cinco img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+ 
+}
+.seis img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+ 
+}
+.sete img:hover {
+     transform: rotate(130deg);
+		 transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+ 
+}
+
+.oito img:hover{
+	
+		 transform: rotate(360deg);
+		 transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+}
+
+.nove img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+-o-transition: 0.70s;}
+
+.dez img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+-o-transition: 0.70s;}
+
+.onze img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;}
+
+.doze img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;}
+
+.treze img:hover {
+    -moz-transform: translate(50px, 0px);
+	-ms-transform: translate(50px, 0px);
+	-o-transform: translate(50px, 0px);
+	 -webkit-transform: translate(50px, 0px);
+    transform: translate(50px, 0px);
+	transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;}
+
+.fourteen img:hover {
+     transform: rotate(60deg);
+		 transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;}
+
+.footer {
+	top:1000px;
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
